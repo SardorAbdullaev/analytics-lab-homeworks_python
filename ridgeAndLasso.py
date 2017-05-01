@@ -1,5 +1,6 @@
 #Initialization
-
+#TODO add scaling
+#TODO add OneHotEncoder instead of modelmatrix
 # pandas
 import pandas as pd
 from pandas import Series,DataFrame
